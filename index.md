@@ -1,4 +1,4 @@
-# Yash Dalal
+# Yash Dalal's First CS193 Homework
 - No exams
 - Once a week
 - Student run
